@@ -1,0 +1,32 @@
+[
+{
+    "model": "articles.article",
+    "pk": 1,
+    "fields": {
+        "user": 2,
+        "title": "제목을입력해주세요",
+        "content": "내용",
+        "image": "",
+        "created_at": "2023-04-12T00:07:57.456Z",
+        "updated_at": "2023-04-12T00:07:57.456Z",
+        "like_users": [
+            1
+        ]
+    }
+},
+{
+    "model": "articles.article",
+    "pk": 2,
+    "fields": {
+        "user": 1,
+        "title": "허허허...",
+        "content": "그렇게됐다",
+        "image": "",
+        "created_at": "2023-04-12T00:09:03.840Z",
+        "updated_at": "2023-04-12T00:09:03.840Z",
+        "like_users": [
+            1
+        ]
+    }
+}
+]
